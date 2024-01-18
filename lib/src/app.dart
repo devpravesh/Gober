@@ -7,7 +7,7 @@ import 'package:language_detect_app/src/Utils/DarkThemeProvider.dart';
 import 'package:provider/provider.dart';
 
 import 'Login/otp_screen.dart';
-import 'Utils/Styles.dart';
+import 'Utils/styles.dart';
 import 'sample_feature/sample_item_details_view.dart';
 import 'sample_feature/sample_item_list_view.dart';
 import 'settings/settings_controller.dart';
