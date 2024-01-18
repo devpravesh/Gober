@@ -109,6 +109,7 @@ class OtpScreen extends StatelessWidget {
                       //       Get.to(const InformationScreen(), arguments: {
                       //         "userModel": userModel,
                       //       });
+                      //
                       //     } else {
                       //       print("----->old user");
                       //       FireStoreUtils.userExitOrNot(value.user!.uid)
